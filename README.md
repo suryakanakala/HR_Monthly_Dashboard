@@ -27,8 +27,10 @@ The dashboard was inspired by **Chandoo’s YouTube tutorials** and extended wit
 
 ---
 
+
 ## 📊 Dashboard Preview
-*(Insert screenshot of your dashboard here)*
+![Monthly HR Dashboard](HR-DASHBORD-BY-CHANDOO.png)
+
 
 ---
 
